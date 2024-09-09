@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+@media (min-width: 768px) {
+  .Headline-image {
+    width: 400px;
+  }
+}
